@@ -1,7 +1,8 @@
 # 
 
 <h2 align="left"> Pagina inicial do Instagram</h2>
-   <h3> Projeto Recriando a pagina inicial do Instagram, utilizando CSS com Flexbox - (https://github.com/helyascouto/Recriando-a-p-gina-inicial-do-Instagram) </h3>
+   <h3> Projeto Recriando a pagina inicial do Instagram, utilizando CSS com Flexbox. </h3>
+   <br>
    <img src="https://repository-images.githubusercontent.com/431497616/685dff98-ed67-4084-b0bb-d5fda2d4aca4" alt="imagem do projeto">
 <br>
 <h2 align="left">Projetos em Destaque!</h2>
